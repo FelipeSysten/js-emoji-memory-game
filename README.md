@@ -8,6 +8,8 @@ Bem-vindo ao **Game Memória**! Neste repositório, você encontrará um jogo di
 
 https://js-emoji-memorygame.vercel.app/
 
+![image](https://github.com/FelipeSysten/js-emoji-memory-game/assets/76599815/fb0eab41-71e6-4747-a498-f20888254c42)
+
 
 ### Tecnologias Utilizadas
 
