@@ -4,11 +4,9 @@
 Bem-vindo ao **Game Memória**! Neste repositório, você encontrará um jogo divertido de memoria com emoticons. Este projeto não apenas oferece entretenimento, mas também demonstra várias técnicas avançadas de desenvolvimento de jogos em JavaScript.
 </p>
 
-<h2>Conheça o projeto clicando na imagem abaixo:</h2>
+<h2>Conheça o projeto clicando abaixo:</h2>
 
-<a href="https://thalesacardoso.github.io/dio-projeto-jogo-detonaRalph">
-  <img src="./src/images/jogo.png">
-</a>
+https://js-emoji-memorygame.vercel.app/
 
 
 ### Tecnologias Utilizadas
